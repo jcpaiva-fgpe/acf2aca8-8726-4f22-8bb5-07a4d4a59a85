@@ -1,0 +1,1 @@
+(r = 111.17 Euro) 100 Euro, 10 Euro, 1 Euro, 0.1 Euro, 0.05 Euro, 0.02 Euro
