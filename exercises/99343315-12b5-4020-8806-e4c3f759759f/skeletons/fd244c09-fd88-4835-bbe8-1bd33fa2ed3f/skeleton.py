@@ -1,0 +1,5 @@
+rinkinys = set(range(100))
+print('Elementų skaičius:', len(rinkinys))
+print('Mažiausias elementas:', min(rinkinys))
+print('Didžiausias elementas:', max(rinkinys))
+print('Vidutinė rinkinio reikšmė:')
