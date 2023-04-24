@@ -1,0 +1,29 @@
+<p>Tarkime, kad turime raidžių matricą ir vieną žodį, kurį ieškosime. Žodis matricoje gali būti sudarytas tik iš greta esančių langelių (vertikaliai ar horizontaliai). Ta pati raidė negali būti naudojama daugiau nei vieną kartą.<p>
+<pre>
+A	B	C	E
+S	F	C	S
+A	D	E	E
+</pre>
+<p>Realizacija atliekama šiais žingsniais:</p>
+<ol>
+<li>Sukuriama rekursyvi funkcija find(), kuriam paduodame matricą matrix, žodį word , eilutės row ir stulpelio col indeksą ir indeksą i. Pradžioje i = 0.
+<li>Jei i = žodžio word ilgis, tai grąžinam Taip. Jei row >= eilučių skaičius matricoje arba row < 0 arba col >= stulpelių skaičius matricoje arba col < 0, tai grąžinam Ne.
+</li>
+<p>
+Įvestis:<br> 
+A,B,C,E S,F,C,S A,D,E,E<br>
+SEE<br>
+Išvestis: Taip
+</p>
+<p>
+Įvestis:<br> 
+A,B,C,E S,F,C,S A,D,E,E<br>
+ABCCED<br>
+Išvestis: Taip
+</p>
+<p>
+Įvestis:<br>
+A,B,C,E S,F,C,S A,D,E,E<br>
+ABCB<br>
+Išvestis: Ne
+</p>
