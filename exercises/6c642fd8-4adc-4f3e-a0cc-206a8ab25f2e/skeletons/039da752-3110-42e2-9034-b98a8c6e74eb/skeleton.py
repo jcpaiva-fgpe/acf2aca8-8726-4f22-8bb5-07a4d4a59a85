@@ -1,0 +1,1 @@
+print('Copyright symbol',)
