@@ -1,0 +1,6 @@
+Skaičius:
+12 dalinasi be liekanos iš 6
+12 dalinasi be liekanos iš 4
+12 dalinasi be liekanos iš 3
+12 dalinasi be liekanos iš 2
+Viso 12 dalinosi be liekanos 4 kart.
