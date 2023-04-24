@@ -1,0 +1,4 @@
+Elementų skaičius: 100
+Mažiausias elementas: 0
+Didžiausias elementas: 99
+idutinė rinkinio reikšmė: 49.5
