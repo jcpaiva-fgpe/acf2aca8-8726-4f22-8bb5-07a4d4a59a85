@@ -1,0 +1,3 @@
+Eilutė 1?
+Eilutė 2?
+Bendri simboliai: {'t'}
