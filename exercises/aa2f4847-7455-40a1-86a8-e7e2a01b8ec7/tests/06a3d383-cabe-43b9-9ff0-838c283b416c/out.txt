@@ -1,0 +1,6 @@
+Audi <class 'str'>
+A4 <class 'str'>
+2010 <class 'int'>
+124775 <class 'int'>
+1.6 <class 'float'>
+False <class 'bool'>
