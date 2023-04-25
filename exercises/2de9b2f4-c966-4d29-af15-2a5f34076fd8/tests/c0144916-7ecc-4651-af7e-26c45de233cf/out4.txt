@@ -1,0 +1,3 @@
+Darbo sutarčių skaičius:
+Kompiuteris? True ar False?
+Metinės pajamų sąnaudos yra 3000 eurų.
