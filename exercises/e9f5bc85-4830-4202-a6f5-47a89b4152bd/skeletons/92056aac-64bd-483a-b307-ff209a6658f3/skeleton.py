@@ -1,0 +1,2 @@
+sarasas = []
+print('S =', sarasas)
