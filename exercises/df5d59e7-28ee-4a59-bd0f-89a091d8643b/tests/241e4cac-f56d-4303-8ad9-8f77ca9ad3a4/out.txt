@@ -1,0 +1,1 @@
+{114: 'policija', 113: 'ugniagesiai', 112: 'greitoji pagalba'}
