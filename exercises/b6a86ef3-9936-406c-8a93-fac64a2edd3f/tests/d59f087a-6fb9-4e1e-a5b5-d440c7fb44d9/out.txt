@@ -1,0 +1,2 @@
+Eilutė?
+Simbolių sąrašas: ['a', 'n', 't', 's']
