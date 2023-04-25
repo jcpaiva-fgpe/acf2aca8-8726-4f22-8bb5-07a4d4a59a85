@@ -1,0 +1,1 @@
+S = [True, 5.1, 'Dykuma', True]
