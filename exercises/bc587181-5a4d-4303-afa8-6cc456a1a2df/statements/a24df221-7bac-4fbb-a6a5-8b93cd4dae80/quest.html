@@ -1,0 +1,21 @@
+<p>1. Sukurkite klasę <i>Figura</i> taip, kad ji apimtų: 
+<ul><li> metodą <i>perimetras</i>, kuris grąžina perimetrą, apskaičiuotą kaip atributo <i>krastine</i> elementų sumą (tai yra sąrašas; šio sąrašo neapibrėžkite klasės Figura klasei, vėliau jį apibrėšite antrinėms klasėms).</li>.
+<li> metodą <i> __str__ </i>, kuris grąžina tekstinį objekto aprašymą klasės pavadinimo ir sąrašo, kuriame yra visos figūros kraštinės, pavidalu &ndash; 
+net jei jų ilgis vienodas, turi būti rodomos visos tam tikros figūros kraštinės, pvz., kvadrato, kurio kraštinės ilgis 7, atveju išvestis bus tokia: "Kvadratas [7, 7, 7, 7, 7]".</ul>. 
+<br>
+
+2. Tada sukurkite klases: <i>Kvadratas</i>, <i>Staciakampis</i> ir <i>Trikampis</i>. Kiekviena klasė paveldi klasė <i>Figura</i>. 
+Taip pat visoms joms apibrėžkite: 
+<ul><li> metodą <i> __init__ </i>, paimantį vienos, dviejų arba trijų kraštinių ilgius ir išsaugantį juos kaip sąrašo <i>krastines</i> elementus &ndash; pastaba: kad būtų paprasčiau apskaičiuoti perimetrą, palikite visas figūros kraštines, net jei jos yra vienodo ilgio, pvz.
+kvadratas, kurio kraštinės ilgis 7, turi būti įrašytas į sąrašą <i>krastines</i>, lygų [7, 7, 7, 7], </li> 
+<li> metodą <i>plotas</i>, kuris apskaičiuojama tam tikros figūros plotą pagal sąraše esančių kraštinių duomenis.</li></ul> 
+<br>
+
+3. Sukurkite <i> figūrų sąrašą <i> ir į pirmuosius tris elementus įdėkite šiuos objektus: <ul> 
+<li> klasės <i>Kvadratas</i> objektą, kurio kraštinės ilgis 7; </li>
+<li> klasės <i>Stačiakampis</i> objektą, kurio kraštinių ilgiai 5, 6;</li>
+<li> klasės <i>Trikampis</i> objektą, kurio kraštinių ilgiai: 3, 4, 5. </li> </ul>
+<br>
+
+4. Naudokite <i>for</i> ciklą, kuris pereis per visus figūrų sąrašo elementus ir kiekvienam jų išspausdins: tekstinį figūros aprašymą, jos perimetrą, plotą. 
+Pavyzdžiui, antrosios figūros išvestis gali atrodyti būtent taip: "Stačiakampis [5, 6, 5, 6] 22 30".</p>
