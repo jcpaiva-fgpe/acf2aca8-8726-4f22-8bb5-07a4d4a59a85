@@ -1,0 +1,4 @@
+vilna, kurios spalva: pilka
+True
+False
+džinsai, kurios spalva: mėlyna
